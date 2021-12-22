@@ -9,4 +9,8 @@ public class Main {
     public void method(){
 
     }
+
+    public void xxx(){
+
+    }
 }
